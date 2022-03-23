@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\BookStore\bin\Debug\net5.0\BookStore.exe
+C:\Users\lolhy\Desktop\Code 1651\BookStore\bin\Debug\net5.0\BookStore.deps.json
+C:\Users\lolhy\Desktop\Code 1651\BookStore\bin\Debug\net5.0\BookStore.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\BookStore\bin\Debug\net5.0\BookStore.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\BookStore\bin\Debug\net5.0\BookStore.dll
+C:\Users\lolhy\Desktop\Code 1651\BookStore\bin\Debug\net5.0\ref\BookStore.dll
+C:\Users\lolhy\Desktop\Code 1651\BookStore\bin\Debug\net5.0\BookStore.pdb
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.dll
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\ref\BookStore.dll
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.pdb
+C:\Users\lolhy\Desktop\Code 1651\BookStore\obj\Debug\net5.0\BookStore.genruntimeconfig.cache

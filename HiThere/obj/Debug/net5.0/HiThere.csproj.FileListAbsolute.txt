@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\HiThere\bin\Debug\net5.0\HiThere.exe
+C:\Users\lolhy\Desktop\Code 1651\HiThere\bin\Debug\net5.0\HiThere.deps.json
+C:\Users\lolhy\Desktop\Code 1651\HiThere\bin\Debug\net5.0\HiThere.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\HiThere\bin\Debug\net5.0\HiThere.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\HiThere\bin\Debug\net5.0\HiThere.dll
+C:\Users\lolhy\Desktop\Code 1651\HiThere\bin\Debug\net5.0\ref\HiThere.dll
+C:\Users\lolhy\Desktop\Code 1651\HiThere\bin\Debug\net5.0\HiThere.pdb
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.dll
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\ref\HiThere.dll
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.pdb
+C:\Users\lolhy\Desktop\Code 1651\HiThere\obj\Debug\net5.0\HiThere.genruntimeconfig.cache

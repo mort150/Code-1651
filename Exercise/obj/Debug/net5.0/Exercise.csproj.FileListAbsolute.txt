@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\Exercise\bin\Debug\net5.0\Exercise.exe
+C:\Users\lolhy\Desktop\Code 1651\Exercise\bin\Debug\net5.0\Exercise.deps.json
+C:\Users\lolhy\Desktop\Code 1651\Exercise\bin\Debug\net5.0\Exercise.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\Exercise\bin\Debug\net5.0\Exercise.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\Exercise\bin\Debug\net5.0\Exercise.dll
+C:\Users\lolhy\Desktop\Code 1651\Exercise\bin\Debug\net5.0\ref\Exercise.dll
+C:\Users\lolhy\Desktop\Code 1651\Exercise\bin\Debug\net5.0\Exercise.pdb
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.dll
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\ref\Exercise.dll
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.pdb
+C:\Users\lolhy\Desktop\Code 1651\Exercise\obj\Debug\net5.0\Exercise.genruntimeconfig.cache
