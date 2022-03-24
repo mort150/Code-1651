@@ -45,11 +45,11 @@ namespace Exercise
             grade = 0.0;
         }
 
-        public Student(string name, string id, double grade)
+        public Student(string name, string id)
         {
             Name = name;
             Id = id;
-            Grade = grade;
+            Grade = 0.0;
         }
 
         public void StudentInfo()

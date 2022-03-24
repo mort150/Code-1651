@@ -19,10 +19,10 @@ namespace Exercise
             string name = Console.ReadLine();
             System.Console.WriteLine("Enter Id of Student: ");
             string id = Console.ReadLine();
-            System.Console.WriteLine("Enter grade of Student: ");
-            double grade = Convert.ToDouble(Console.ReadLine());
+            // System.Console.WriteLine("Enter grade of Student: ");
+            // double grade = Convert.ToDouble(Console.ReadLine());
 
-            Student s = new Student(name, id, grade);
+            Student s = new Student(name, id);
             listStudents.Add(s);
         }
 
