@@ -40,6 +40,7 @@ namespace TestInheritance
         }
         public void ShowInfo()
         {
+            System.Console.WriteLine("----====***====----");
             System.Console.WriteLine("Name: " + name);
             System.Console.WriteLine("Age: " + age);
         }

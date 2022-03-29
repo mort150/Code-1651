@@ -17,7 +17,7 @@ namespace TestInheritance
                 else course = value;
             }
         }
-        public Teacher() : base("Teacher", 22)
+        public Teacher() : base("Unknown", 25)
         {
             course = "GCH001";
         }
