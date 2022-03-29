@@ -7,8 +7,8 @@ namespace DemoInheritance
 {
     public class Animal
     {
-        private string kind;
-        private int age;
+        protected string kind;
+        protected int age;
 
         public string Kind
         {

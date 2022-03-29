@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\bin\Debug\net5.0\TestInheritance.exe
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\bin\Debug\net5.0\TestInheritance.deps.json
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\bin\Debug\net5.0\TestInheritance.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\bin\Debug\net5.0\TestInheritance.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\bin\Debug\net5.0\TestInheritance.dll
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\bin\Debug\net5.0\ref\TestInheritance.dll
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\bin\Debug\net5.0\TestInheritance.pdb
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.dll
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\ref\TestInheritance.dll
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.pdb
+C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.genruntimeconfig.cache
