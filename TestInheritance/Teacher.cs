@@ -25,7 +25,7 @@ namespace TestInheritance
         {
             Course = course;
         }
-        public void ShowInfo()
+        public override void ShowInfo()
         {
             base.ShowInfo();
             System.Console.WriteLine("Teacher's course: " + course);

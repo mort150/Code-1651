@@ -25,7 +25,7 @@ namespace TestInheritance
         {
             Grade = grade;
         }
-        public void ShowInfo()
+        public override void ShowInfo()
         {
             base.ShowInfo();
             System.Console.WriteLine("Student's Grade: " + grade);

@@ -38,7 +38,7 @@ namespace TestInheritance
             Name = name;
             Age = age;
         }
-        public void ShowInfo()
+        public virtual void ShowInfo()
         {
             System.Console.WriteLine("----====***====----");
             System.Console.WriteLine("Name: " + name);

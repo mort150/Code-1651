@@ -11,8 +11,17 @@ namespace TestInheritance
 
             // Teacher t1 = new Teacher("Doan Trung Tung", 25, "GCH0905");
             // t1.ShowInfo();
-            ClassManagement cls = new ClassManagement();
-            cls.Run();
+            // ClassManagement cls = new ClassManagement();
+            // cls.Run();
+
+            Person s = new Person();
+            s.ShowInfo();
+
+            s = new Student();
+            s.ShowInfo();
+
+            s = new Teacher();
+            s.ShowInfo();
         }
     }
 }

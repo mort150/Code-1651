@@ -14,3 +14,19 @@ C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritanc
 C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\ref\TestInheritance.dll
 C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.pdb
 C:\Users\lolhy\Desktop\Code 1651\TestInheritance\obj\Debug\net5.0\TestInheritance.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\bin\Debug\net5.0\TestInheritance.exe
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\bin\Debug\net5.0\TestInheritance.deps.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\bin\Debug\net5.0\TestInheritance.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\bin\Debug\net5.0\TestInheritance.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\bin\Debug\net5.0\TestInheritance.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\bin\Debug\net5.0\ref\TestInheritance.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\bin\Debug\net5.0\TestInheritance.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\ref\TestInheritance.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\TestInheritance\obj\Debug\net5.0\TestInheritance.genruntimeconfig.cache
