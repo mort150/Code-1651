@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\bin\Debug\net5.0\EmployeeTime.exe
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\bin\Debug\net5.0\EmployeeTime.deps.json
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\bin\Debug\net5.0\EmployeeTime.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\bin\Debug\net5.0\EmployeeTime.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\bin\Debug\net5.0\EmployeeTime.dll
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\bin\Debug\net5.0\ref\EmployeeTime.dll
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\bin\Debug\net5.0\EmployeeTime.pdb
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.dll
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\ref\EmployeeTime.dll
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.pdb
+C:\Users\lolhy\Desktop\Code 1651\EmployeeTime\obj\Debug\net5.0\EmployeeTime.genruntimeconfig.cache
