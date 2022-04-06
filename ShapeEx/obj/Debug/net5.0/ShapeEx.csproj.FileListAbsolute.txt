@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\bin\Debug\net5.0\ShapeEx.exe
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\bin\Debug\net5.0\ShapeEx.deps.json
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\bin\Debug\net5.0\ShapeEx.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\bin\Debug\net5.0\ShapeEx.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\bin\Debug\net5.0\ShapeEx.dll
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\bin\Debug\net5.0\ref\ShapeEx.dll
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\bin\Debug\net5.0\ShapeEx.pdb
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.dll
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ref\ShapeEx.dll
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.pdb
+C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.genruntimeconfig.cache
