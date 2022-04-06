@@ -1,0 +1,26 @@
+22/3
+
+this - scope {
+pham vi gan nhat} ---- errors : unknown, declare
+
+khoi tao thuoc tinh --> ham constructor
+
+exception --> khoi tao cho listProducts3
+
+error;
+	- code path not ... --> return null after for/foereach loop
+	- There is no argument given that corresponds to the required formal parameter 
+	--> cac method ko co parameter
+
+24/3
+
+instant attribute/ class attribute (belongs to class not object)
+
+29/3
+- Neu 1 lop ko co contructor --> tu tao.
+- Neu lop con ko chu dong goi contructor cua lop cha -> System tu dong goi.
+- Neu chu dong goi --> su dung key "base".
+
+
+
+
