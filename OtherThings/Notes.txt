@@ -1,0 +1,9 @@
+31/3/2022:
+static typing vs dynamic typing
+
+6/4/2022: abstract function : just have declaration, do not have implementation
+
+	Abstract Class: a class has at least 1 abstract method (do not use to create 
+a project)
+
+Polymorphism: 
