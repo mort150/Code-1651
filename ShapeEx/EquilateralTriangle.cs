@@ -5,34 +5,15 @@ using System.Threading.Tasks;
 
 namespace ShapeEx
 {
-    public class EquilateralTriangle : Shape
+    public class EquilateralTriangle : Triangle
     {
-        private int side;
-        public int Side
+        public EquilateralTriangle() : base("EquilateralTriangle", 1, 1, 1)
         {
-            get { return side; }
-            set
-            {
-                if (value <= 0) System.Console.WriteLine("Invalid Side!!!");
-                else side = value;
-            }
+
         }
-        public EquilateralTriangle() : base("Square")
+        public EquilateralTriangle(string name, int side) : base(name, side, side, side)
         {
-            side = 1;
-        }
-        public EquilateralTriangle(string name, int side) : base(name)
-        {
-            Name = name;
-            Side = side;
-        }
-        public override double Area()
-        {
-            return Math.Sqrt(3)/4 * Math.Pow(Side, 2);
-        }
-        public override double Perimeter()
-        {
-            return Side * 3;
+
         }
     }
 }
