@@ -6,8 +6,3 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-<<<<<<< Updated upstream
-=======
-build_property.RootNamespace = TestInheritance
-build_property.ProjectDir = c:\Users\lolhy\Desktop\Code 1651\TestInheritance\
->>>>>>> Stashed changes

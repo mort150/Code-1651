@@ -13,7 +13,7 @@ namespace ShapeEx
             get { return name; }
             set
             {
-                if (value == "") System.Console.WriteLine("Invalid Name!!!");
+                if (value == "") throw new Exception("Invalid Name!!!");
                 else name = value;
             }
         }

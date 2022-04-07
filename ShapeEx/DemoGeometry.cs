@@ -39,6 +39,8 @@ namespace ShapeEx
         }
         private void AddRectangle()
         {
+            try
+            {
             System.Console.WriteLine("Enter the name of Shape: ");
             string name = Console.ReadLine();
             System.Console.WriteLine("Enter the Width of Rectangle: ");
@@ -47,6 +49,11 @@ namespace ShapeEx
             int h = Convert.ToInt32(Console.ReadLine());
 
             shapes.Add(new Rectangle(name, w, h));
+            }
+            catch (Exception e)
+            {
+                System.Console.WriteLine(e.Message);
+            }
         }
         private void AddTriangle()
         {

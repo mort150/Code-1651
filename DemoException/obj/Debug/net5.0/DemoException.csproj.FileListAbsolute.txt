@@ -1,0 +1,16 @@
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\bin\Debug\net5.0\DemoException.exe
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\bin\Debug\net5.0\DemoException.deps.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\bin\Debug\net5.0\DemoException.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\bin\Debug\net5.0\DemoException.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\bin\Debug\net5.0\DemoException.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\bin\Debug\net5.0\ref\DemoException.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\bin\Debug\net5.0\DemoException.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\ref\DemoException.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoException\obj\Debug\net5.0\DemoException.genruntimeconfig.cache

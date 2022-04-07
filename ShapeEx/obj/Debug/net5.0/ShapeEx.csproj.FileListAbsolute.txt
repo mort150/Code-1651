@@ -14,3 +14,19 @@ C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.dll
 C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ref\ShapeEx.dll
 C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.pdb
 C:\Users\lolhy\Desktop\Code 1651\ShapeEx\obj\Debug\net5.0\ShapeEx.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\bin\Debug\net5.0\ShapeEx.exe
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\bin\Debug\net5.0\ShapeEx.deps.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\bin\Debug\net5.0\ShapeEx.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\bin\Debug\net5.0\ShapeEx.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\bin\Debug\net5.0\ShapeEx.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\bin\Debug\net5.0\ref\ShapeEx.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\bin\Debug\net5.0\ShapeEx.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ref\ShapeEx.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\ShapeEx\obj\Debug\net5.0\ShapeEx.genruntimeconfig.cache

@@ -5,34 +5,14 @@ using System.Threading.Tasks;
 
 namespace ShapeEx
 {
-    public class Square : Shape
+    public class Square : Rectangle
     {
-        private int side;
-        public int Side
+        public Square() : base("Square", 1, 1)
         {
-            get { return side; }
-            set
-            {
-                if (value <= 0) System.Console.WriteLine("Invalid Side!!!");
-                else side = value;
-            }
+
         }
-        public Square() : base("Square")
+        public Square(string name, int side) : base(name, side,side)
         {
-            side = 1;
-        }
-        public Square(string name, int side) : base(name)
-        {
-            Name = name;
-            Side = side;
-        }
-        public override double Area()
-        {
-            return Math.Pow(Side,2);
-        }
-        public override double Perimeter()
-        {
-            return Side * 4;
         }
     }
 }
