@@ -7,75 +7,76 @@ namespace FractionEx
 {
     public class DemoFraction : MenuProgram
     {
-        private int numerator;
-        private int demoninator;
-        public int Numerator
+        private Fraction f1;
+        private Fraction f2;
+
+
+        public DemoFraction()
         {
-            get { return numerato; }
-            set
+            f1 = new Fraction();
+            f2 = new Fraction();
+        }
+        private void EnterFraction()
+        {
+            try
             {
-                if (value < 0) throw new Exception("Invalid Numerator!!!");
-                else numerator = value;
+                System.Console.WriteLine("Enter Fraction 1");
+                int num = Utils.GetInteger("Enter Numerator of Fraction 1: ");
+                int dem = Utils.GetIntegerDifZero("Enter Demoninator of Fraction 1: ");
+                f1 = new Fraction(num, dem);
+
+                System.Console.WriteLine("Enter Fraction 2");
+                int a = Utils.GetInteger("Enter Numerator of Fraction 2: ");
+                int b = Utils.GetIntegerDifZero("Enter Demoninator of Fraction 2: ");
+                f2 = new Fraction(a, b);
+            }
+            catch (DivideByZeroException e)
+            {
+                System.Console.WriteLine("The demoninator must not be zero" + e.Message);
             }
         }
-        public int Demoninator
+        public override void PrintMenu()
         {
-            get { return demoninator; }
-            set
+            System.Console.WriteLine("------====== Fraction Calculation ======------");
+            System.Console.WriteLine("1. Add Fration");
+            System.Console.WriteLine("2. Do Sum.");
+            System.Console.WriteLine("3. Do Sub.");
+            System.Console.WriteLine("4. Do Mul.");
+            System.Console.WriteLine("5. Do Div.");
+            System.Console.WriteLine("0. Exit.");
+        }
+        public override void DoTask(int choice)
+        {
+            switch (choice)
             {
-                if (value = 0) throw new Exception("Invalid Demoninator!!!");
-                else demoninator = value;
+                case 1: EnterFraction(); break;
+                case 2: DemoSum(); break;
+                case 3: DemoSub(); break;
+                case 4: DemoMul(); break;
+                case 5: DemoDiv(); break;
+                case 0: System.Console.WriteLine("You've out of the system!!!"); break;
+                default: System.Console.WriteLine("Invalid choice!!!"); break;
             }
         }
-        public Fraction()
+        private void DemoSum()
         {
-            numerator = 1;
-            demoninator = 1;
+            System.Console.Write("The result of Sum Caculator: ");
+            System.Console.WriteLine(f1.Add(f2));
         }
-        public Fraction(int a, int b)
+        private void DemoSub()
         {
-            Numerator = a;
-            Demoninator = b;
+            System.Console.Write("The result of Sub Caculator: ");
+            System.Console.WriteLine(f1.Sub(f2));
         }
-        public Fraction Add(Fraction f)
+        private void DemoMul()
         {
-            int a = numerator;
-            int b = demoninator;
-            int c = f.numerator;
-            int d = f.demoninator;
-
-            int sum = (a * d + b * c) / (b * d);
-            return sum;
+            System.Console.Write("The result of Mul Caculator: ");
+            System.Console.WriteLine(f1.Mul(f2));
         }
-        public Fraction Sub(Fraction f)
+        private void DemoDiv()
         {
-            int a = numerator;
-            int b = demoninator;
-            int c = f.numerator;
-            int d = f.demoninator;
-
-            int sub = (a * d - b *c) / (b * d);
-            return sub;
-        }
-        public Fraction Mul(Fraction f)
-        {
-            int a = numerator;
-            int b = demoninator;
-            int c = f.numerator;
-            int d = f.demoninator;
-
-            int mul = (a * c) / (b * d);
-            return mul;
-        }
-        public Fraction Div(Fraction f)
-        {
-            int a = numerator;
-            int b = demoninator;
-            int c = f.numerator;
-            int d = f.demoninator;
-
-            int div = (a * d) / (b * c);
-            return div;
+            System.Console.Write("The result of Div Caculator: ");
+            System.Console.WriteLine(f1.Div(f2));
         }
     }
 }

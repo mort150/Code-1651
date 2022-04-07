@@ -6,7 +6,8 @@ namespace FractionEx
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DemoFraction demo = new DemoFraction();
+            demo.Run();
         }
     }
 }

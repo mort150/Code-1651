@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\bin\Debug\net5.0\FractionEx.exe
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\bin\Debug\net5.0\FractionEx.deps.json
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\bin\Debug\net5.0\FractionEx.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\bin\Debug\net5.0\FractionEx.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\bin\Debug\net5.0\FractionEx.dll
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\bin\Debug\net5.0\ref\FractionEx.dll
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\bin\Debug\net5.0\FractionEx.pdb
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.dll
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\ref\FractionEx.dll
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.pdb
+C:\Users\lolhy\Desktop\Code 1651\FractionEx\obj\Debug\net5.0\FractionEx.genruntimeconfig.cache
