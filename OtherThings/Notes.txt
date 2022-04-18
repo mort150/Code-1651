@@ -7,3 +7,6 @@ static typing vs dynamic typing
 a project)
 
 Polymorphism: 
+
+
+Readonly = get method only;

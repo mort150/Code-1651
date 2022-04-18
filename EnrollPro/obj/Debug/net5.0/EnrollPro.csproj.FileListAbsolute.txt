@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\bin\Debug\net5.0\EnrollPro.exe
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\bin\Debug\net5.0\EnrollPro.deps.json
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\bin\Debug\net5.0\EnrollPro.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\bin\Debug\net5.0\EnrollPro.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\bin\Debug\net5.0\EnrollPro.dll
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\bin\Debug\net5.0\ref\EnrollPro.dll
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\bin\Debug\net5.0\EnrollPro.pdb
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.dll
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\ref\EnrollPro.dll
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.pdb
+C:\Users\lolhy\Desktop\Code 1651\EnrollPro\obj\Debug\net5.0\EnrollPro.genruntimeconfig.cache

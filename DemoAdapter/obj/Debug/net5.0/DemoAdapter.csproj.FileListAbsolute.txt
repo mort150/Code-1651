@@ -1,0 +1,16 @@
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.csproj.AssemblyReference.cache
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.AssemblyInfoInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.AssemblyInfo.cs
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.csproj.CoreCompileInputs.cache
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\bin\Debug\net5.0\DemoAdapter.exe
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\bin\Debug\net5.0\DemoAdapter.deps.json
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\bin\Debug\net5.0\DemoAdapter.runtimeconfig.json
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\bin\Debug\net5.0\DemoAdapter.runtimeconfig.dev.json
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\bin\Debug\net5.0\DemoAdapter.dll
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\bin\Debug\net5.0\ref\DemoAdapter.dll
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\bin\Debug\net5.0\DemoAdapter.pdb
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.dll
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\ref\DemoAdapter.dll
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.pdb
+C:\Users\lolhy\Desktop\Code 1651\DemoAdapter\obj\Debug\net5.0\DemoAdapter.genruntimeconfig.cache
