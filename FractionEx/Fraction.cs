@@ -24,7 +24,7 @@ namespace FractionEx
             get { return demoninator; }
             set
             {
-                if (value == 0) throw new Exception("Invalid Demoninator!!! The Demoninator must not be zero!!!");
+                if (value == 0) throw new DemoninatorIsZeroException("Invalid Demoninator!!! The Demoninator must not be zero!!!");
                 else demoninator = value;
             }
         }
@@ -80,9 +80,7 @@ namespace FractionEx
             int b = demoninator;
             int c = f.numerator;
             int d = f.demoninator;
-            Fraction div = new Fraction();
-            div.numerator = (a * d);
-            div.demoninator = (b * c);
+            Fraction div = new Fraction(a * d, b * c );
             return div;
         }
         public override string ToString()

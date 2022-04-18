@@ -48,5 +48,24 @@ namespace FractionEx
             }
             return n;
         }
+        public static Fraction GetFraction()
+        {
+            Fraction f = new Fraction();
+            int a = GetInteger("Enter numerator: ");
+            while (true)
+            {
+                try
+                {
+                    int b = GetInteger("Enter demoninator: ");
+                    f = new Fraction(a, b);
+                    break;
+                }
+                catch (DemoninatorIsZeroException)
+                {
+                    System.Console.WriteLine("Demoninator mus not be 0, enter again!!!");
+                }
+            }
+            return f;
+        }
     }
 }

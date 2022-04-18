@@ -6,5 +6,8 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+<<<<<<< HEAD
 build_property.RootNamespace = FractionEx
 build_property.ProjectDir = c:\Users\lolhy\Desktop\Code 1651\FractionEx\
+=======
+>>>>>>> 72437ddf6001c8715168494fd53796c332f0cdb2

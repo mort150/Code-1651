@@ -18,22 +18,19 @@ namespace FractionEx
         }
         private void EnterFraction()
         {
-            try
-            {
-                System.Console.WriteLine("Enter Fraction 1");
-                int num = Utils.GetInteger("Enter Numerator of Fraction 1: ");
-                int dem = Utils.GetIntegerDifZero("Enter Demoninator of Fraction 1: ");
-                f1 = new Fraction(num, dem);
 
-                System.Console.WriteLine("Enter Fraction 2");
-                int a = Utils.GetInteger("Enter Numerator of Fraction 2: ");
-                int b = Utils.GetIntegerDifZero("Enter Demoninator of Fraction 2: ");
-                f2 = new Fraction(a, b);
-            }
-            catch (DivideByZeroException e)
-            {
-                System.Console.WriteLine("The demoninator must not be zero" + e.Message);
-            }
+            System.Console.WriteLine("Enter Fraction 1");
+            // int num = Utils.GetInteger("Enter Numerator of Fraction 1: ");
+            // int dem = Utils.GetIntegerDifZero("Enter Demoninator of Fraction 1: ");
+            // f1 = new Fraction(num, dem);
+
+            // System.Console.WriteLine("Enter Fraction 2");
+            // int a = Utils.GetInteger("Enter Numerator of Fraction 2: ");
+            // int b = Utils.GetIntegerDifZero("Enter Demoninator of Fraction 2: ");
+            // f2 = new Fraction(a, b);
+            Fraction f1 = Utils.GetFraction();
+            System.Console.WriteLine("Enter Fraction 2");
+            Fraction f2 = Utils.GetFraction();
         }
         public override void PrintMenu()
         {
