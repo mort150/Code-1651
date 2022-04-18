@@ -14,8 +14,9 @@ namespace FractionEx
             get { return numerator; }
             set
             {
-                if (value < 0) throw new Exception("Invalid Numerator!!!");
-                else numerator = value;
+                // if (value < 0) throw new Exception("Invalid Numerator!!!");
+                // else 
+                numerator = value;
             }
         }
         public int Demoninator
