@@ -10,3 +10,7 @@ Polymorphism:
 
 
 Readonly = get method only;
+
+
+bien static -- trong bo nho co cho danh rieng cho bien nay --> tat ca deu truy cap duoc vao bien nay
+-Singleton --> constructor set to private

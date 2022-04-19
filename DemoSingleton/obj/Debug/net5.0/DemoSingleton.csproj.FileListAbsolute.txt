@@ -1,0 +1,16 @@
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\bin\Debug\net5.0\DemoSingleton.exe
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\bin\Debug\net5.0\DemoSingleton.deps.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\bin\Debug\net5.0\DemoSingleton.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\bin\Debug\net5.0\DemoSingleton.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\bin\Debug\net5.0\DemoSingleton.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\bin\Debug\net5.0\ref\DemoSingleton.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\bin\Debug\net5.0\DemoSingleton.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\ref\DemoSingleton.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoSingleton\obj\Debug\net5.0\DemoSingleton.genruntimeconfig.cache
