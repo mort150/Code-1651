@@ -22,7 +22,7 @@ namespace DemoSingleton
             {
                 doc.Pages -= pages;
                 pages = 0;
-                System.Console.WriteLine("Not enough pages. Add more pages!!!");
+                System.Console.WriteLine("Not enough pages. Add more (at least {0}) pages!!!", doc.Pages);
             }
             else
             {

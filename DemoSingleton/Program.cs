@@ -26,6 +26,14 @@ namespace DemoSingleton
             c2.Print(d4);
             System.Console.WriteLine();
             c3.Print(d3);
+            System.Console.WriteLine();
+                
+            System.Console.Write("Enter the number of pages to add: ");
+            int pages = int.Parse(System.Console.ReadLine());
+            Printer spooler = Printer.GetSpooler();
+            spooler.AddPages(pages);
+
+            c3.Print(d3);
         }
     }
 }
