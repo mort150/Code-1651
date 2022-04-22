@@ -1,0 +1,16 @@
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\bin\Debug\net5.0\DemoComposite.exe
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\bin\Debug\net5.0\DemoComposite.deps.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\bin\Debug\net5.0\DemoComposite.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\bin\Debug\net5.0\DemoComposite.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\bin\Debug\net5.0\DemoComposite.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\bin\Debug\net5.0\ref\DemoComposite.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\bin\Debug\net5.0\DemoComposite.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\ref\DemoComposite.dll
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.pdb
+C:\Users\Acer\OneDrive\Desktop\Code-1651\DemoComposite\obj\Debug\net5.0\DemoComposite.genruntimeconfig.cache
