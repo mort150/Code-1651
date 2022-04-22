@@ -1,0 +1,13 @@
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.exe
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.deps.json
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.dll
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.pdb
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.dll
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.pdb
+D:\OneDrive\Desktop\source\repos\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.genruntimeconfig.cache

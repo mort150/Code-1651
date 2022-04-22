@@ -1,0 +1,13 @@
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\bin\Debug\netcoreapp3.1\Ass2demo.exe
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\bin\Debug\netcoreapp3.1\Ass2demo.deps.json
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\bin\Debug\netcoreapp3.1\Ass2demo.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\bin\Debug\netcoreapp3.1\Ass2demo.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\bin\Debug\netcoreapp3.1\Ass2demo.dll
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\bin\Debug\netcoreapp3.1\Ass2demo.pdb
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\obj\Debug\netcoreapp3.1\Ass2demo.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\obj\Debug\netcoreapp3.1\Ass2demo.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\obj\Debug\netcoreapp3.1\Ass2demo.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\obj\Debug\netcoreapp3.1\Ass2demo.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\obj\Debug\netcoreapp3.1\Ass2demo.dll
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\obj\Debug\netcoreapp3.1\Ass2demo.pdb
+D:\OneDrive\Desktop\source\repos\Ass2demo\Ass2demo\obj\Debug\netcoreapp3.1\Ass2demo.genruntimeconfig.cache

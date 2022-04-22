@@ -1,0 +1,13 @@
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\bin\Debug\netcoreapp3.1\DemoState.exe
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\bin\Debug\netcoreapp3.1\DemoState.deps.json
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\bin\Debug\netcoreapp3.1\DemoState.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\bin\Debug\netcoreapp3.1\DemoState.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\bin\Debug\netcoreapp3.1\DemoState.dll
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\bin\Debug\netcoreapp3.1\DemoState.pdb
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\obj\Debug\netcoreapp3.1\DemoState.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\obj\Debug\netcoreapp3.1\DemoState.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\obj\Debug\netcoreapp3.1\DemoState.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\obj\Debug\netcoreapp3.1\DemoState.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\obj\Debug\netcoreapp3.1\DemoState.dll
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\obj\Debug\netcoreapp3.1\DemoState.pdb
+D:\OneDrive\Desktop\source\repos\DemoState\DemoState\obj\Debug\netcoreapp3.1\DemoState.genruntimeconfig.cache

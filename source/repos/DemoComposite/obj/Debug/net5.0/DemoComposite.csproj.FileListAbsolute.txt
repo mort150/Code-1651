@@ -1,0 +1,31 @@
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/bin/Debug/net5.0/DemoComposite.deps.json
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/bin/Debug/net5.0/DemoComposite.runtimeconfig.json
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/bin/Debug/net5.0/DemoComposite.runtimeconfig.dev.json
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/bin/Debug/net5.0/DemoComposite.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/bin/Debug/net5.0/ref/DemoComposite.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/bin/Debug/net5.0/DemoComposite.pdb
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.csprojAssemblyReference.cache
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.AssemblyInfoInputs.cache
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.AssemblyInfo.cs
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.csproj.CoreCompileInputs.cache
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/ref/DemoComposite.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.pdb
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 6/DemoComposite/DemoComposite/obj/Debug/net5.0/DemoComposite.genruntimeconfig.cache
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.dll
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\ref\DemoComposite.dll
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.pdb
+D:\OneDrive\Desktop\source\repos\DemoComposite\bin\Debug\net5.0\DemoComposite.exe
+D:\OneDrive\Desktop\source\repos\DemoComposite\bin\Debug\net5.0\DemoComposite.deps.json
+D:\OneDrive\Desktop\source\repos\DemoComposite\bin\Debug\net5.0\DemoComposite.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\DemoComposite\bin\Debug\net5.0\DemoComposite.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\DemoComposite\bin\Debug\net5.0\DemoComposite.dll
+D:\OneDrive\Desktop\source\repos\DemoComposite\bin\Debug\net5.0\ref\DemoComposite.dll
+D:\OneDrive\Desktop\source\repos\DemoComposite\bin\Debug\net5.0\DemoComposite.pdb
+D:\OneDrive\Desktop\source\repos\DemoComposite\obj\Debug\net5.0\DemoComposite.genruntimeconfig.cache
