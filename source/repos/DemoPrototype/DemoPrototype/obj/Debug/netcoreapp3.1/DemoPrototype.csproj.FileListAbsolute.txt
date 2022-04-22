@@ -1,0 +1,13 @@
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\bin\Debug\netcoreapp3.1\DemoPrototype.exe
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\bin\Debug\netcoreapp3.1\DemoPrototype.deps.json
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\bin\Debug\netcoreapp3.1\DemoPrototype.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\bin\Debug\netcoreapp3.1\DemoPrototype.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\bin\Debug\netcoreapp3.1\DemoPrototype.dll
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\bin\Debug\netcoreapp3.1\DemoPrototype.pdb
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\obj\Debug\netcoreapp3.1\DemoPrototype.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\obj\Debug\netcoreapp3.1\DemoPrototype.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\obj\Debug\netcoreapp3.1\DemoPrototype.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\obj\Debug\netcoreapp3.1\DemoPrototype.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\obj\Debug\netcoreapp3.1\DemoPrototype.dll
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\obj\Debug\netcoreapp3.1\DemoPrototype.pdb
+D:\OneDrive\Desktop\source\repos\DemoPrototype\DemoPrototype\obj\Debug\netcoreapp3.1\DemoPrototype.genruntimeconfig.cache

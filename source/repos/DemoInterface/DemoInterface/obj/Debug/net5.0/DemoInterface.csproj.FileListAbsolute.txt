@@ -1,0 +1,31 @@
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/bin/Debug/net5.0/DemoInterface.deps.json
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/bin/Debug/net5.0/DemoInterface.runtimeconfig.json
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/bin/Debug/net5.0/DemoInterface.runtimeconfig.dev.json
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/bin/Debug/net5.0/DemoInterface.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/bin/Debug/net5.0/ref/DemoInterface.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/bin/Debug/net5.0/DemoInterface.pdb
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.csprojAssemblyReference.cache
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.AssemblyInfoInputs.cache
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.AssemblyInfo.cs
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.csproj.CoreCompileInputs.cache
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/ref/DemoInterface.dll
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.pdb
+/Users/tungdt/Google Drive/FPTU/Program - F2G new/Unit 20 - Avanced Programming/GCH0803/Demo/Day 4/DemoInterface/DemoInterface/obj/Debug/net5.0/DemoInterface.genruntimeconfig.cache
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\net5.0\DemoInterface.exe
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\net5.0\DemoInterface.deps.json
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\net5.0\DemoInterface.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\net5.0\DemoInterface.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\net5.0\DemoInterface.dll
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\net5.0\ref\DemoInterface.dll
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\net5.0\DemoInterface.pdb
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.dll
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\ref\DemoInterface.dll
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.pdb
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\net5.0\DemoInterface.genruntimeconfig.cache

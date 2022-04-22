@@ -1,0 +1,13 @@
+D:\OneDrive\Desktop\source\repos\June82021\June82021\bin\Debug\netcoreapp3.1\June82021.exe
+D:\OneDrive\Desktop\source\repos\June82021\June82021\bin\Debug\netcoreapp3.1\June82021.deps.json
+D:\OneDrive\Desktop\source\repos\June82021\June82021\bin\Debug\netcoreapp3.1\June82021.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\June82021\June82021\bin\Debug\netcoreapp3.1\June82021.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\June82021\June82021\bin\Debug\netcoreapp3.1\June82021.dll
+D:\OneDrive\Desktop\source\repos\June82021\June82021\bin\Debug\netcoreapp3.1\June82021.pdb
+D:\OneDrive\Desktop\source\repos\June82021\June82021\obj\Debug\netcoreapp3.1\June82021.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\June82021\June82021\obj\Debug\netcoreapp3.1\June82021.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\June82021\June82021\obj\Debug\netcoreapp3.1\June82021.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\June82021\June82021\obj\Debug\netcoreapp3.1\June82021.dll
+D:\OneDrive\Desktop\source\repos\June82021\June82021\obj\Debug\netcoreapp3.1\June82021.pdb
+D:\OneDrive\Desktop\source\repos\June82021\June82021\obj\Debug\netcoreapp3.1\June82021.genruntimeconfig.cache
+D:\OneDrive\Desktop\source\repos\June82021\June82021\obj\Debug\netcoreapp3.1\June82021.csprojAssemblyReference.cache

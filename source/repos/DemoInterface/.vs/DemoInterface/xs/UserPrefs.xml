@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{AD8BBD87-E77B-4195-A170-A8FE0D6EA28C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoInterface/EmptyInterface.cs">
+    <Files>
+      <File FileName="DemoInterface/Program.cs" Line="9" Column="34" />
+      <File FileName="DemoInterface/Mobile.cs" Line="6" Column="18" />
+      <File FileName="DemoInterface/Iphone.cs" Line="13" Column="40" />
+      <File FileName="DemoInterface/AndroidPhone.cs" Line="12" Column="10" />
+      <File FileName="DemoInterface/EmptyInterface.cs" Line="8" Column="2" />
+      <File FileName="DemoInterface/ECigarette.cs" Line="14" Column="6" />
+      <File FileName="DemoInterface/Beat.cs" Line="12" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoInterface" expanded="True">
+            <Node name="DemoInterface" expanded="True">
+              <Node name="EmptyInterface.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>n</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoInterface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

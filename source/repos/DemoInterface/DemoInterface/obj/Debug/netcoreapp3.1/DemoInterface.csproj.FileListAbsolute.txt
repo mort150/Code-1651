@@ -1,0 +1,13 @@
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\netcoreapp3.1\DemoInterface.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\netcoreapp3.1\DemoInterface.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\netcoreapp3.1\DemoInterface.AssemblyInfo.cs
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\netcoreapp3.1\DemoInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\netcoreapp3.1\DemoInterface.exe
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\netcoreapp3.1\DemoInterface.deps.json
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\netcoreapp3.1\DemoInterface.runtimeconfig.json
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\netcoreapp3.1\DemoInterface.runtimeconfig.dev.json
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\netcoreapp3.1\DemoInterface.dll
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\bin\Debug\netcoreapp3.1\DemoInterface.pdb
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\netcoreapp3.1\DemoInterface.dll
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\netcoreapp3.1\DemoInterface.pdb
+D:\OneDrive\Desktop\source\repos\DemoInterface\DemoInterface\obj\Debug\netcoreapp3.1\DemoInterface.genruntimeconfig.cache
