@@ -94,6 +94,13 @@ namespace Assignment2
                 }
                 while (sign)
                 {
+                    System.Console.WriteLine("\nAll singleboxes exist:");
+                    foreach (BoxComponent sibox in singleboxes)
+                    {
+                        System.Console.WriteLine("----------------");
+                        System.Console.WriteLine(sibox.Name);
+                    }
+                    System.Console.WriteLine("----------------");
                     System.Console.WriteLine("\nWhich box that you want to add into {0}?", compositebox.Name);
                     string box = Console.ReadLine();
                     foreach (BoxComponent bo in singleboxes)
